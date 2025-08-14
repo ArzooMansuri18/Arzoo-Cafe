@@ -4,7 +4,7 @@ A simple, responsive café website built using **only HTML and CSS**.
 This project was created while following CodeHelp’s YouTube tutorial as part of my learning journey.
 
 ##  Demo
-![Uploading Screenshot 2025-08-14 100528.png…]()
+![Uploading Screenshot 2025-08-14 100528.png…](#)
 
 ##  Overview
 Arzoo Café is a static, visually appealing website that showcases a sample café menu and design layout.  
